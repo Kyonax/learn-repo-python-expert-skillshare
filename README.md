@@ -23,3 +23,26 @@ certain tools, technologies, and certificates." src="github/light.png">
 # Table of Contents
 - [Summary](#summary)
 - [Curriculum](#curriculum)
+
+# Summary
+This `learn-repo` is a **documentation about the self-education courses in python** taken in **SkillShare** complementing it with open source projects using the language learned, with the mission to create an educational background to support or validate the knowledge and experience with **Python.**
+
+This repo is NOT replacing or transcribing any information that you can find in the actual courses [Python for Beginners](https://www.skillshare.com/en/paths/python-for-beginners), [30 Days of Python](https://www.skillshare.com/en/classes/30-Days-of-Python-Coding-for-Beginners/1610492071?via=search-layout-grid), the repo is just a curriculum to show what I learned in all the SkillShare courses, and to show what I can build with the language learned in it.
+
+**Python for Beginners Course Organization**. Course Education structure:
+- *Introduction to Python*
+- *OOP Programming in Python*
+- *Data Structures in Python*
+- *Tools to learn Machine Learning*
+- *Data Visualization*
+
+# Curriculum
+**Curriculum version**: `0.1`
+- **Python for Beginners Course**
+  - [Introduction to Python](#introduction-to-python)
+
+## Introduction to Python
+Python is the programming language of choice for software engineering, data science, and cutting-edge artificial intelligence (AI) research. Learning it can open a whole world of new career possibilities, but where do you start? Follow Alvin Wan, a research scientist with years of experience as a computer science lecturer at UC Berkeley, as he teaches you the skills to build your own basic tools and kickstart your computer science journey. More Information on the next ORG Files:
+
+- Python for Beginners
+  - [Intro to Python](Notes/PythonForBeginners/python-for-beginners.org)
