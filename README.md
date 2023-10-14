@@ -25,7 +25,7 @@ certain tools, technologies, and certificates." src="github/light.png">
 - [Curriculum](#curriculum)
 
 # Summary
-This `learn-repo` is a **documentation about the self-education courses in python** taken in **SkillShare** complementing it with open source projects using the language learned, with the mission to create an educational background to support or validate the knowledge and experience with **Python.**
+This `learn-repo` is a **documentation about the self-education courses in python** taken in **SkillShare** complementing them with open source projects using the language learned, with the mission to create an educational background to support or validate the knowledge and experience with **Python.**
 
 This repo is NOT replacing or transcribing any information that you can find in the actual courses [Python for Beginners](https://www.skillshare.com/en/paths/python-for-beginners), [30 Days of Python](https://www.skillshare.com/en/classes/30-Days-of-Python-Coding-for-Beginners/1610492071?via=search-layout-grid), the repo is just a curriculum to show what I learned in all the SkillShare courses, and to show what I can build with the language learned in it.
 
